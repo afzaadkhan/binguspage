@@ -15,7 +15,7 @@ const Links = () => {
             "Investing in Bingus is like buying happiness – but with memes!"
           </li>
           <li>
-            <a href="https://twitter.com/yourprofile" className="hover:text-purple-400">
+            <a href="https://x.com/CatWifNoHair" className="hover:text-purple-400">
              👉 Twitter 👈
             </a>
           </li>
