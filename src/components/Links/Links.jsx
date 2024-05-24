@@ -47,7 +47,7 @@ const Links = () => {
             "Check out our Instagram for daily doses of Bingus and giggles."
           </li>
           <li>
-            <a href="https://telegram.me/yourprofile" className="hover:text-purple-400">
+            <a href="https://t.me/CatWifNoHair" className="hover:text-purple-400">
               Telegram
             </a>
           </li>
