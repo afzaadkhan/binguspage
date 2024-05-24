@@ -11,7 +11,7 @@ const Hero = () => {
             Bingus - the cryptocurrency that doesn't take itself too seriously. Join the revolution of memes and laughter in the crypto space!
           </p>
           <img
-            src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZ0OHZ4azdsZXlqaXhlbTN0YXVxa3lzeXMxNGZkdHhsemRreGNsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gd2rNu6879bd6/giphy.gif"
+            src="https://media2.giphy.com/media/ib2aghcsT8UVgJUNWM/giphy.webp?cid=ecf05e47fu2xcanh2zfoubxsec3fl5ltejbi7ld4gz1z4oyt&ep=v1_gifs_search&rid=giphy.webp&ct=g"
             alt="Bingus Logo"
             className="mx-auto mb-8 animate__animated animate__fadeInUp animate__delay-1s "
             style={{ maxWidth: '300px' }}
