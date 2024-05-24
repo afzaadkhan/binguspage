@@ -16,7 +16,7 @@ const Links = () => {
           </li>
           <li>
             <a href="https://twitter.com/yourprofile" className="hover:text-purple-400">
-              Twitter
+             👉 Twitter 👈
             </a>
           </li>
           <li className="mt-8 text-lg italic">
@@ -24,7 +24,7 @@ const Links = () => {
           </li>
           <li>
             <a href="https://facebook.com/yourprofile" className="hover:text-purple-400">
-              Facebook
+              👉 Facebook 👈
             </a>
           </li>
           <li className="mt-8 text-lg italic">
@@ -32,7 +32,7 @@ const Links = () => {
           </li>
           <li>
             <a href="https://linkedin.com/in/yourprofile" className="hover:text-purple-400">
-              LinkedIn
+              👉 LinkedIn 👈
             </a>
           </li>
           <li className="mt-8 text-lg italic">
@@ -40,7 +40,7 @@ const Links = () => {
           </li>
           <li>
             <a href="https://instagram.com/yourprofile" className="hover:text-purple-400">
-              Instagram
+              👉 Instagram 👈
             </a>
           </li>
           <li className="mt-8 text-lg italic">
@@ -48,7 +48,7 @@ const Links = () => {
           </li>
           <li>
             <a href="https://t.me/CatWifNoHair" className="hover:text-purple-400">
-              Telegram
+              👉 Telegram 👈
             </a>
           </li>
           <li className="mt-8 text-lg italic">
