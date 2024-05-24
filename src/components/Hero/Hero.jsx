@@ -59,7 +59,7 @@ const Hero = () => {
       <section className="bg-violet-500 text-white py-20">
         <div className="container mx-auto text-center">
           <img
-            src="/src/images/binguslogo.png"
+            src="https://www.pngmart.com/files/23/Bingus-PNG-Pic.png"
             alt="Bingus Image"
             className="mx-auto mb-8 rounded-lg"
             style={{ maxWidth: '500px' }}
