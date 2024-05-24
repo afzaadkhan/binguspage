@@ -7,7 +7,7 @@ const Header = () => {
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center">
           <img src='https://www.pngmart.com/files/23/Bingus-PNG-Pic.png' alt="Bingus Logo" className="h-12 w-auto mr-3 hidden md:block" />
-          <h1 className="text-white text-3xl font-spaceMono font-bold">Bingus</h1>
+          <h1 className="text-white text-xl md:text-3xl font-spaceMono font-bold">Bingus</h1>
         </div>
         <nav className="flex flex-grow justify-center"> {/* Center align navigation */}
           <ul className="flex space-x-6">
