@@ -23,7 +23,7 @@ const Footer = () => {
       </div>
       <div className="container mx-auto text-center text-xs">
         <p>&copy; 2024 MemeCoin. All rights reserved.</p>
-        <p className="mt-2"><span className="font-bold select-all "></span></p>
+        <p className="mt-2">CA : <span className="font-bold select-all ">DLfGPeQ17fWoAaAwwoNyFbqCBunPndJYvgXhVW9kRBXr</span></p>
         <p className="mt-2">Contact: <a href="mailto:info@memecoin.com" className="underline">info@bingus.com</a></p>
       </div>
     </footer>
